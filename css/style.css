@@ -1,0 +1,19 @@
+body {
+    padding-top: 56px; /* Ajuste conforme necessário para a altura da barra de navegação fixa no topo */
+    margin-bottom: 60px; /* Ajuste conforme necessário para a altura do rodapé */
+  }
+
+  .container{
+    margin-bottom: 20px;
+  }
+
+  .social-icons {
+    font-size: 24px;
+    margin-right: 10px;
+    color: #ffffff;
+  }
+
+  .img{
+    width: 200px;
+    height: 200px;
+  }
